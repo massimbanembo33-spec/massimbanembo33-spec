@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=MASSIMBA%20NEMBO%20//%20CYBER%20ENGINEER&fontSize=40&fontColor=FF00FF&animation=fadeIn&desc=Securing%20the%20Future,%20One%20Byte%20at%20a%20Time.&descAlignY=70&descColor=00FFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000033,100:00FFCC&height=180&section=header&text=MASSIMBA%20NEMBO%20//%20CYBER%20ENGINEER&fontSize=40&fontColor=00FFFF&animation=fadeIn&desc=Securing%20the%20Future,%20One%20Byte%20at%20a%20Time.&descAlignY=70&descColor=00FF99" />
 </p>
 
 <p align="center">
