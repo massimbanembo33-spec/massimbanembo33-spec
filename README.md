@@ -99,7 +99,7 @@ I navigate the digital realm with:
 ### 🐍 My Commits // The Snake Game
 
 <p align="center">
-  <img src="https://github.com/massimbanembo33-spec/massimbanembo33-spec/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/massimbanembo33-spec/massimbanembo33-spec/raw/main/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
