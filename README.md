@@ -1,5 +1,3 @@
-<!-- === MASSIMBA NEMBO | CYBER ENGINEER README === -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001f3f&height=130&section=header&text=⚡%20Massimba%20Nembo%20⚡&fontSize=40&fontColor=00FFFF&animation=fadeIn&desc=Cybersecurity%20Engineer%20|%20AI%20Explorer%20|%20Developer&descAlignY=75" />
 </p>
@@ -8,19 +6,19 @@
 
 ### 🧠 About Me
 
-I'm currently **studying Engineering and Information Technologies** at the **Technical University of Mozambique (UDM)**.  
+I'm currently **studying Engineering and Information Technologies** at the **Technical University of Mozambique (UDM)**.
 My academic path focuses on **Programming**, **Networking**, and **Cybersecurity**, always blending logic with creativity.
 
-💻 I work with **Python**, **Java**, and **Vim**, using **VS Code**, **NetBeans**, and **Visual Studio** daily.  
-🧩 I operate confidently on **Linux (Parrot, Kali, Debian, Arch, Ubuntu)** and **Windows/PowerShell**.  
+💻 I work with **Python**, **Java**, and **Vim**, using **VS Code**, **NetBeans**, and **Visual Studio** daily.
+🧩 I operate confidently on **Linux (Parrot, Kali, Debian, Arch, Ubuntu)** and **Windows/PowerShell**.
 🔐 I practice **Ethical Hacking & Pentesting** on [`TryHackMe`](https://tryhackme.com) and [`HackTheBox`](https://www.hackthebox.com).
 
 ---
 
 ### 🚀 Featured Project
 
-**Campus-Digital**  
-> A next-generation academic management system designed to digitize and modernize education.  
+**Campus-Digital**
+> A next-generation academic management system designed to digitize and modernize education.
 It’s where I apply my technical, analytical, and leadership abilities to real-world challenges.
 
 ---
@@ -28,12 +26,12 @@ It’s where I apply my technical, analytical, and leadership abilities to real-
 ### ⚙️ Tech Stack
 
 #### 💻 Programming & Development
-`Python` · `Java` · `HTML` · `CSS` · `JavaScript` · `Vim`  
-`VS Code` · `NetBeans` · `Visual Studio`
+`Python` · `Java` · `HTML` · `CSS` · `JavaScript`
+`Vim` · `VS Code` · `NetBeans` · `Visual Studio`
 
 #### 🧩 Systems & Security
-`Linux (Parrot, Kali, Debian, Arch, Ubuntu)` · `Windows/PowerShell`  
-`TCP/IP` · `ARP` · `UDP` · `HTTP` · `HTTPS`  
+`Linux (Parrot, Kali, Debian, Arch, Ubuntu)` · `Windows/PowerShell`
+`TCP/IP` · `ARP` · `UDP` · `HTTP` · `HTTPS`
 `Pentesting` · `Ethical Hacking` · `Network Analysis`
 
 ---
@@ -70,17 +68,17 @@ It’s where I apply my technical, analytical, and leadership abilities to real-
 ---
 
 ### 💬 Motto
-> *“Technology is not just my passion — it’s my weapon to create the future.”*  
+> *“Technology is not just my passion — it’s my weapon to create the future.”*
 > — **Massimba Nembo**
 
 ---
 
 ### 🛰️ Fun Facts
-- 🧠 I’m passionate about cybersecurity and system architecture.  
-- 💻 I master both **Linux Terminals** and **Windows PowerShell**.  
-- 🌌 Astronomy fuels my curiosity and reasoning.  
+- 🧠 I’m passionate about cybersecurity and system architecture.
+- 💻 I master both **Linux Terminals** and **Windows PowerShell**.
+- 🌌 Astronomy fuels my curiosity and reasoning.
 - 🎹 I play **classical piano** — my first song was *Für Elise*.
-- 🎲 Solving a Rubik's Cube
+- 🎲 I enjoy solving a Rubik's Cube.
 
 ---
 
