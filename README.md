@@ -1,28 +1,27 @@
-<!-- === MASSIMBA NEMBO | CYBER REFORGED README === -->
-
-<h1 align="center">⚡ Hello, I'm <span style="color:#00FFFF;">Massimba Nembo</span> ⚡</h1>
+<!-- === MASSIMBA NEMBO | CYBER ENGINEER README === -->
 
 <p align="center">
-  <em>Engineering Student · Cybersecurity Enthusiast · AI Explorer</em>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001f3f&height=130&section=header&text=⚡%20Massimba%20Nembo%20⚡&fontSize=40&fontColor=00FFFF&animation=fadeIn&desc=Cybersecurity%20Engineer%20|%20AI%20Explorer%20|%20Developer&descAlignY=75" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm currently studying **Engineering and Information Technologies** at the **Technical University of Mozambique (UDM)**.  
-My learning journey focuses on **programming**, **networking**, and **cybersecurity**, blending analytical thinking with creative system design.
+I'm currently **studying Engineering and Information Technologies** at the **Technical University of Mozambique (UDM)**.  
+My academic path focuses on **Programming**, **Networking**, and **Cybersecurity**, always blending logic with creativity.
 
-💻 I’m proficient in **Python** and **Java**, and comfortable across **Linux distributions** (Parrot OS, Kali, Debian, Arch, Ubuntu) and **Windows/PowerShell**.  
-🔐 I regularly practice **Pentesting** and **Ethical Hacking** on platforms like  
-[`TryHackMe`](https://tryhackme.com) 🧩 and [`HackTheBox`](https://www.hackthebox.com) ⚔️.
+💻 I work with **Python**, **Java**, and **Vim**, using **VS Code**, **NetBeans**, and **Visual Studio** daily.  
+🧩 I operate confidently on **Linux (Parrot, Kali, Debian, Arch, Ubuntu)** and **Windows/PowerShell**.  
+🔐 I practice **Ethical Hacking & Pentesting** on [`TryHackMe`](https://tryhackme.com) and [`HackTheBox`](https://www.hackthebox.com).
 
 ---
 
 ### 🚀 Featured Project
 
-**Campus-Digital** — an academic management platform designed to modernize educational institutions.  
-This project strengthens my **problem-solving**, **leadership**, and **software architecture** skills.
+**Campus-Digital**  
+> A next-generation academic management system designed to digitize and modernize education.  
+It’s where I apply my technical, analytical, and leadership abilities to real-world challenges.
 
 ---
 
@@ -37,20 +36,22 @@ This project strengthens my **problem-solving**, **leadership**, and **software 
 `TCP/IP` · `ARP` · `UDP` · `HTTP` · `HTTPS`  
 `Pentesting` · `Ethical Hacking` · `Network Analysis`
 
-#### 🌐 Platforms
-[`TryHackMe`](https://tryhackme.com) · [`HackTheBox`](https://www.hackthebox.com)
+---
+
+### 🌌 Platforms
+[`TryHackMe`](https://tryhackme.com) 🧩 · [`HackTheBox`](https://www.hackthebox.com) ⚔️
 
 ---
 
-### 🌌 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/massimbanembo"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/></a>
-  <a href="https://www.linkedin.com/in/massimba-nembo-15a871374/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-  <a href="https://www.facebook.com/massimba.nembo.5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/></a>
-  <a href="https://discord.com/channels/@me/1382878514059149322"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40"/></a>
-  <a href="mailto:MassimbaNembo33@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a>
-  <a href="https://github.com/massimbanembo33-spec"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
+  <a href="https://www.instagram.com/massimbanembo" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="50" /></a>
+  <a href="https://www.linkedin.com/in/massimba-nembo-15a871374/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
+  <a href="https://www.facebook.com/massimba.nembo.5/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="50" /></a>
+  <a href="https://discord.com/channels/@me/1382878514059149322" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="50" /></a>
+  <a href="mailto:MassimbaNembo33@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
+  <a href="https://github.com/massimbanembo33-spec" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
 </p>
 
 ---
@@ -59,7 +60,7 @@ This project strengthens my **problem-solving**, **leadership**, and **software 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=massimbanembo33-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=massimbanembo33-spec&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=massimbanembo33-spec&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
 </p>
 
 <p align="center">
@@ -69,21 +70,20 @@ This project strengthens my **problem-solving**, **leadership**, and **software 
 ---
 
 ### 💬 Motto
-> *"Technology is the bridge between imagination and reality."*  
+> *“Technology is not just my passion — it’s my weapon to create the future.”*  
 > — **Massimba Nembo**
 
 ---
 
 ### 🛰️ Fun Facts
-- 🧠 I enjoy exploring cybersecurity challenges and vulnerabilities.  
-- 💻 I master both **Linux Terminal** and **Windows PowerShell**.  
-- 🌌 Astronomy inspires my curiosity and logical thinking.  
-- 🎹 I play classical piano — *Für Elise* was my first piece learned.
+- 🧠 I’m passionate about cybersecurity and system architecture.  
+- 💻 I master both **Linux Terminals** and **Windows PowerShell**.  
+- 🌌 Astronomy fuels my curiosity and reasoning.  
+- 🎹 I play **classical piano** — my first song was *Für Elise*.
 - 🎲 Solving a Rubik's Cube
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20by-Massimba%20Nembo-00FFFF?style=for-the-badge&logo=github&color=000000&logoColor=00FFFF">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:001f3f,100:000000&section=footer&text=Massimba%20Nembo%20|%20Cyber%20Engineer&fontSize=20&fontColor=00FFFF" />
 </p>
-
