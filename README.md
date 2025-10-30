@@ -96,6 +96,14 @@ I navigate the digital realm with:
 
 ---
 
+### 🐍 My Commits // The Snake Game
+
+<p align="center">
+  <img src="https://github.com/massimbanembo33-spec/massimbanembo33-spec/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:001f3f&section=footer&text=INITIATE%20//%20SYSTEM%20ONLINE&fontSize=20&fontColor=FF00FF&animation=fadeIn" />
 </p>
