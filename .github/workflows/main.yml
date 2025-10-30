@@ -2,20 +2,42 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Corre todos os dias à meia-noite UTC
+  workflow_dispatch:   # Permite o acionamento manual
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    # Permissão necessária para a action fazer push para o repositório
+    permissions:
+      contents: write
+
     steps:
+      # 1. Faz o checkout do código (para que possamos fazer commit)
       - uses: actions/checkout@v2
+
+      # 2. Gera os SVGs da cobra
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: massimbanembo33-spec # Seu username do GitHub
+          github_user_name: massimbanembo33-spec
           outputs: |
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Adiciona, faz commit e push dos ficheiros gerados
+      - name: Commit and Push Snake SVG
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ./output/
+          # Verifica se há mudanças para commitar
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "build: Generate snake contribution graph 🐍"
+            git push
+          else
+            echo "No changes to commit. Snake is up to date."
+          fi
