@@ -94,13 +94,6 @@ I navigate the digital realm with:
 * **Classical Keys:** A classical piano player — *Für Elise* was my inaugural piece.
 * **Puzzle Solver:** I find joy and challenge in solving a Rubik's Cube.
 
----
-
-### 🐍 My Commits // The Snake Game
-
-<p align="center">
-  <img src="https://github.com/massimbanembo33-spec/massimbanembo33-spec/raw/main/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
