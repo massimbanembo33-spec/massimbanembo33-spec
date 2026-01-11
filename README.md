@@ -16,18 +16,18 @@
       <h2 style="color: #00d2ff; margin-bottom: 10px;">>_ INITIALIZING NEURAL HANDSHAKE...</h2>
       
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A3A0E8&width=500&lines=Identity:+Massimba+Nembo;Role:+Cybersecurity+Engineer+%2F%2F+UDM;Mission:+Architecting+Secure+Digital+Futures.;Target:+Advanced+Pentesting+%26+AI+Integration." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A3A0E8&width=500&lines=Identity:+Massimba+Nembo;Role:+Cybersecurity+Engineer;Mission:+Architecting+Secure+Digital+Futures.;Target:+Advanced+Pentesting+%26+AI+Integration." alt="Typing SVG" />
       </a>
 
       <br><br>
       <p align="justify" style="color: #ccc; font-size: 15px; line-height: 1.7;">
        <b>Greetings.</b> I am a visionary located at the high-stakes intersection of <b>Software Engineering</b> and <b>Offensive Security</b>.
        <br><br>
-       I don't just write code; I engineer resilient digital ecosystems. Currently focused on mastering Artificial Intelligence algorithms and developing large-scale management solutions like <i>Campus Digital</i>. Technology is my weapon; the future is my target.
+       I don't just write code; I engineer resilient digital ecosystems. Currently focused on mastering Artificial Intelligence algorithms and developing large-scale management solutions like <i>Campus Digital</i>.
       </p>
     </td>
     <td width="42%" align="center" valign="middle">
-        <img src="https://i.imgur.com/HYM0k2I.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 210, 255, 0.15); opacity: 0.9;">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 210, 255, 0.15); opacity: 0.9;">
     </td>
   </tr>
 </table>
@@ -56,9 +56,6 @@
     </td>
   </tr>
 </table>
-<p align="center" style="color: #8b949e; font-size: 12px; margin-top: 15px; font-family: monospace; letter-spacing: 1px;">
-  [ SYSTEM ARCHITECTURE • PENTESTING • DATA PERSISTENCE • MVC PATTERN ]
-</p>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.5;">
@@ -71,7 +68,7 @@
     <td colspan="2" style="padding: 25px 30px 15px 30px;">
       <h3 style="color: #ffffff; margin: 0; font-size: 22px;">🎓 The Definitive Academic Management System</h3>
       <p style="color: #a3a0e8; font-size: 15px; margin-top: 10px; line-height: 1.5;">
-        Architected a robust <b>Java Swing</b> solution designed to modernize complex educational administrative workflows. From secure authentication gates to intricate student database management, this project serves as my proving ground for scalable software engineering.
+        Architected a robust <b>Java Swing</b> solution designed to modernize complex educational administrative workflows. From secure authentication gates to intricate student database management.
       </p>
       <div style="margin-top: 15px;">
         <img src="https://img.shields.io/badge/Tech-Java_Swing-orange?style=flat-square&logo=java"/>
@@ -122,16 +119,6 @@
       <a href="mailto:MassimbaNembo33@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-Send_Transmission-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" height="40"/>
       </a>
-      <br><br>
-      <div style="margin-top: 10px;">
-        <a href="https://tryhackme.com" target="_blank">
-          <img src="https://img.shields.io/badge/TryHackMe-C20035?style=flat-square&logo=tryhackme&logoColor=white"/>
-        </a>
-        &nbsp;
-        <a href="https://www.hackthebox.com" target="_blank">
-          <img src="https://img.shields.io/badge/HackTheBox-00A9E0?style=flat-square&logo=hackthebox&logoColor=white"/>
-        </a>
-      </div>
     </td>
   </tr>
 </table>
