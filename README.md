@@ -119,6 +119,18 @@
       <a href="mailto:MassimbaNembo33@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-Send_Transmission-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" height="40"/>
       </a>
+      <br><br>
+      
+      <div style="margin-top: 10px;">
+        <a href="https://tryhackme.com" target="_blank">
+          <img src="https://img.shields.io/badge/TryHackMe-C20035?style=flat-square&logo=tryhackme&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://www.hackthebox.com" target="_blank">
+          <img src="https://img.shields.io/badge/HackTheBox-00A9E0?style=flat-square&logo=hackthebox&logoColor=white"/>
+        </a>
+      </div>
+
     </td>
   </tr>
 </table>
